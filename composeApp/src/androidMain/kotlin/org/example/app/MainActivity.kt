@@ -1,4 +1,4 @@
-package com.jetbrains.kmpapp
+package org.example.app
 
 import App
 import android.os.Bundle
